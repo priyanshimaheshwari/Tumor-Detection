@@ -1,2 +1,4 @@
 classifier-resnet-weights.keras
 ResUNet-weights.keras
+weights_seg.hdf5
+weights.hdf5
